@@ -5,6 +5,13 @@
 
 <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/ironcross.jpg" height="505"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/mbe.jpg" height="505">
 
+<br>
+<br>
+<br>
+<br>
+
+
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/setmanatragica.jpg" width="1500">
 
 You can use the [editor on GitHub](https://github.com/saulsb/history-lecture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
