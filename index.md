@@ -3,7 +3,7 @@
 # History Lecture: Juan Pujol García
 ### Saul Balcarcel
 
-<img src="raw.githubusercontent.com/saulsb/history-lecture/images/Headshot.jpg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/images/Headshot.jpg" width="100" height="100">
 
 
 You can use the [editor on GitHub](https://github.com/saulsb/history-lecture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
