@@ -13,6 +13,14 @@
 
 <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/setmanatragica.jpg" width="1500">
 
+<br>
+<br>
+<br>
+<br>
+
+
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/pujolscw.jpg" width="700">
+
 You can use the [editor on GitHub](https://github.com/saulsb/history-lecture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
