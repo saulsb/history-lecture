@@ -3,7 +3,7 @@
 # History Lecture: Juan Pujol García
 ### Saul Balcarcel
 
-<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/ironcross.jpg" height="500"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/mbe.jpg" height="500">
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/ironcross.jpg" height="505"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/mbe.jpg" height="505">
 
 
 You can use the [editor on GitHub](https://github.com/saulsb/history-lecture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,4 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.1
