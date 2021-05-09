@@ -19,7 +19,7 @@
 <br>
 
 
-<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/pujolscw.jpg" width="700">
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/pujolscw.jpg" width="700" align="center">
 
 You can use the [editor on GitHub](https://github.com/saulsb/history-lecture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
