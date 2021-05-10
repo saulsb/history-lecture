@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="images/spyicon.ico">
 <br>
 
 # History Lecture: Juan Pujol García
