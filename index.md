@@ -141,6 +141,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/newspaper.PNG" height="420"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/shop.png" height="420">
