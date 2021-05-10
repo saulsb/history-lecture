@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/youngpujol.jpg" height="400"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/lessyoungpujol.jpg" height="400">
+   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/youngpujol.jpg" height="500"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/lessyoungpujol.jpg" height="500">
 </p>
 
 <br>
@@ -36,7 +36,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/scwvictoryparade.jpg" width="700">
+  <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/scwvictoryparade.jpg" width="1000">
 </p>
 
 <br>
@@ -52,7 +52,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/pujonazispy.jpg" width="700">
+  <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/pujonazispy.jpg" width="500">
 </p>
 
 <br>
@@ -66,9 +66,17 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/aracelicontact.png" width="1200">
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -126,7 +134,7 @@
 <br>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/newspaper.PNG" height="400"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/shop.png" height="400">
+   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/newspaper.PNG" height="420"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/shop.png" height="420">
 </p>
 
 
