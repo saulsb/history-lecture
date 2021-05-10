@@ -150,6 +150,11 @@
    <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/newspaper.PNG" height="420"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/shop.png" height="420">
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
