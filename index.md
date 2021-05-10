@@ -30,8 +30,103 @@
   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/pujolscw.jpg" width="700">
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/scwvictoryparade.jpg" width="700">
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/marriage.jpg" width="1200">
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/pujonazispy.jpg" width="700">
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/spynetwork.jpg" width="1200">
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/aracelicontact.png" width="1200">
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/pujolbritish.jpg" height="400"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/tomasharris.jpg" height="400">
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/hmsrodney.jpg" width="1200">
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/enigma.jpg" width="1200">
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/normandy.png" width="1200">
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/fusag.jpg" width="1200">
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/ironcross.jpg" height="505"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/mbe.jpg" height="505">
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/passport.jpg" width="1200">
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/newspaper.png" height="400"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/shop.png" height="400">
 </p>
 
 You can use the [editor on GitHub](https://github.com/saulsb/history-lecture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
