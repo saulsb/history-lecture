@@ -10,8 +10,9 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/youngpujol.jpg" width="500"> 
-<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/lessyoungpujol.jpg" width="500">
+<p align="center">
+   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/youngpujol.jpg" height="400"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/lessyoungpujol.jpg" height="400">
+</p>
 
 <br>
 <br>
@@ -28,6 +29,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/pujolscw.jpg" width="700">
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/scwvictoryparade.jpg" width="700">
+</p>
+
 You can use the [editor on GitHub](https://github.com/saulsb/history-lecture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
