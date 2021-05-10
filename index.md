@@ -10,6 +10,13 @@
 <br>
 <br>
 
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/youngpujol.jpg" width="500"> 
+<img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/lessyoungpujol.jpg" width="500">
+
+<br>
+<br>
+<br>
+<br>
 
 <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/setmanatragica.jpg" width="1500">
 
