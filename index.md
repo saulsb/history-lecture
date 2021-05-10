@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/youngpujol.jpg" height="500"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/lessyoungpujol.jpg" height="500">
+   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/youngpujol.jpg" height="500"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/lessyoungpujol.jpg" height="500" align="right">
 </p>
 
 <br>
