@@ -70,9 +70,17 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/aracelicontact.png" width="1200">
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
