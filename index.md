@@ -126,7 +126,7 @@
 <br>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/newspaper.png" height="400"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/shop.png" height="400">
+   <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/newspaper.PNG" height="400"> <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/shop.png" height="400">
 </p>
 
 You can use the [editor on GitHub](https://github.com/saulsb/history-lecture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
