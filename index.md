@@ -98,6 +98,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <img src="https://raw.githubusercontent.com/saulsb/history-lecture/gh-pages/images/hmsrodney.jpg" width="1200">
 
@@ -153,8 +155,12 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
-
+C'est tout!
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
