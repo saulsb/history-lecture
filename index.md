@@ -160,7 +160,10 @@
 <br>
 <br>
 
-C'est tout!
-
+<h3>
+<p align="center">
+   C'est tout!
+</p>
+</h3>
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
